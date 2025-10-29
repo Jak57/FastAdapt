@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bacc230a-b5b6-4e48-af48-2659a4b6071d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test1_OpusEncodeDecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test4_WriteEncodedDataLenToCsv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test5_DecodeWithEmptyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test6_EncodeWithDifferentLossPercentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test7_loss_packet_reconstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test8_DecodeWithFEC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reve/audio/libraries/dlls/codec/opus/original/OPUSDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reve/audio/libraries/dlls/codec/opus/original/OPUSDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reve/audio/libraries/dlls/codec/opus/original/OPUSEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reve/audio/libraries/dlls/codec/opus/original/OPUSEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/opus/Test1_OpusEncodeDecode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/opus/Test2_WriteEncodedDataToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test2_WriteEncodedDataToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/opus/Test3_DecodeEncodedDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/opusTest/Test3_DecodeEncodedDataFromFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2w1sFdF7fBrvIAxarWfsDiptHGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Test1.applyFilters.executor": "Run",
+    "JUnit.Test1_OpusEncodeDecode.applyFilters.executor": "Run",
+    "JUnit.Test2_WriteEncodedDataToFile.applyFilters.executor": "Run",
+    "JUnit.Test3_DecodeEncodedDataFromFile.applyFilters.executor": "Run",
+    "JUnit.Test4_WriteEncodedDataLenToCsv.applyFilters.executor": "Run",
+    "JUnit.Test5_DecodeWithEmptyData.applyFilters.executor": "Run",
+    "JUnit.Test6_EncodeWithDifferentLossPercentage.applyFilters.executor": "Run",
+    "JUnit.Test7_loss_packet_reconstruction.applyFilters.executor": "Run",
+    "JUnit.Test8_DecodeWithFEC.applyFilters.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/projects/office_main_projects/BitrateControlClient",
+    "onboarding.tips.debug.path": "F:/projects/office_main_projects/BitRateChangeOpusDialer/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\office_main_projects\BitRateChangeOpusDialer\src\main\java\com\reve\util" />
+      <recent name="F:\projects\office_main_projects\BitRateChangeOpusDialer\src\main\resources" />
+      <recent name="F:\projects\office_main_projects\BitRateChangeOpusDialer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test7_loss_packet_reconstruction.applyFilters">
+    <configuration name="Test1_OpusEncodeDecode.applyFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitRateChangeOpusDialer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opusTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="opus" />
+      <option name="MAIN_CLASS_NAME" value="opusTest.Test1_OpusEncodeDecode" />
+      <option name="METHOD_NAME" value="applyFilters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5_DecodeWithEmptyData.applyFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitRateChangeOpusDialer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opusTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="opus" />
+      <option name="MAIN_CLASS_NAME" value="opusTest.Test5_DecodeWithEmptyData" />
+      <option name="METHOD_NAME" value="applyFilters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6_EncodeWithDifferentLossPercentage.applyFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitRateChangeOpusDialer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opusTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="opus" />
+      <option name="MAIN_CLASS_NAME" value="opusTest.Test6_EncodeWithDifferentLossPercentage" />
+      <option name="METHOD_NAME" value="applyFilters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7_loss_packet_reconstruction.applyFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitRateChangeOpusDialer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opusTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="opus" />
+      <option name="MAIN_CLASS_NAME" value="opusTest.Test7_loss_packet_reconstruction" />
+      <option name="METHOD_NAME" value="applyFilters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8_DecodeWithFEC.applyFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitRateChangeOpusDialer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opusTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="opusTest" />
+      <option name="MAIN_CLASS_NAME" value="opusTest.Test8_DecodeWithFEC" />
+      <option name="METHOD_NAME" value="applyFilters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test7_loss_packet_reconstruction.applyFilters" />
+        <item itemvalue="JUnit.Test8_DecodeWithFEC.applyFilters" />
+        <item itemvalue="JUnit.Test1_OpusEncodeDecode.applyFilters" />
+        <item itemvalue="JUnit.Test5_DecodeWithEmptyData.applyFilters" />
+        <item itemvalue="JUnit.Test6_EncodeWithDifferentLossPercentage.applyFilters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bacc230a-b5b6-4e48-af48-2659a4b6071d" name="Changes" comment="" />
+      <created>1745220313517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745220313517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
