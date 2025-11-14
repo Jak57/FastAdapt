@@ -219,8 +219,3 @@ Follow these resources to learn more about loss-based bandwidth estimation.
 * [Clumsy Tool for Network simulation](https://jagt.github.io/clumsy/)
 ---
 
-**Prepared by**<br>
-*Jakir Hasan (Reve Systems'25)*<br>
-*Date (creation) - 29/06/25*<br>
-*Date (last modification) - 29/06/25*<br>
-
